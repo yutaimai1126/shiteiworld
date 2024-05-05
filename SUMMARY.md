@@ -10,10 +10,10 @@
 
 ## My daily practice
 
-## Journey to 1st kyu
+### Journey to 1st kyu
 * [2022 July](contents/My_daily_practice/Journey_to_1st_kyu/2022_July.md)
 
-## Journey to 1st dan
+### Journey to 1st dan
 * [2022 July](contents/My_daily_practice/Journey_to_1st_dan/2022_July.md)
 * [2022 August](contents/My_daily_practice/Journey_to_1st_dan/2022_August.md)
 * [2022 September](contents/My_daily_practice/Journey_to_1st_dan/2022_September.md)
