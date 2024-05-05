@@ -1,6 +1,6 @@
 # I want to quantitatively evaluate Aikido techniques
 
-1. About Aikido
+## About Aikido
 Dear readers, have you ever heard of the martial art of Aikido?
 The Aikikai Foundation explains Aikido on its official website as follows.
 
@@ -28,11 +28,11 @@ The difference between a lifelong sport and a competitive sport is explained in 
 
 [What is Lifelong Sports｜Longevity Science Foundation](https://www.tyojyu.or.jp/net/kenkou-tyoju/shintai-shumi/sports.html#:~:text=%E4%B8%80%E6%96%B9%E7%AB%B6%E6%8A%80%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%81%AF%E3%80%81%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84,%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BA%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82)
 
- However, since Aikido does not involve competition, there are no winners or losers.  
+However, since Aikido does not involve competition, there are no winners or losers.  
 Therefore, although it is similar to a lifelong sport, it cannot be considered within the framework of a sport.  
 In other words, Aikido is a lifelong martial art that aims to develop one’s mind and body.
 
-2. Aikido aims at “growth”. In other words, we need a way to properly evaluate “growth”!
+## Aikido aims at “growth”. In other words, we need a way to properly evaluate “growth”!
 Now, let me cut to the chase. In order to judge the progress of Aikido techniques as a result of repeated practice, it is necessary to have a method to quantitatively evaluate the progress of Aikido techniques.
 
 The reason why quantitative evaluation is necessary is that it is difficult to evaluate the pure skill of a technique due to the relational position of the person performing the technique (hereinafter referred to as “tori”) and the excessive ukemi of the person receiving the technique (hereinafter referred to as “uke”). It is difficult to evaluate the pure skill of a technique.
@@ -40,7 +40,7 @@ The reason why quantitative evaluation is necessary is that it is difficult to e
 For example, when we look at the techniques of a “master” who has been practicing Aikido for many years, we may say, “I don’t know what makes it so great, but it must be great.” This is not appropriate because preconceived notions are getting in the way of a pure appreciation of the technique.  
 In my personal opinion, no matter how long a practitioner has been practicing Aikido, he or she should always aim for “growth” when practicing Aikido. Therefore, regardless of the level of mastery of a person’s technique or the amount of time he or she has practiced, there needs to be a way to properly evaluate those who are striving for growth.
 
-3. Goals of Aikido Movements
+## Goals of Aikido Movements
 In order to quantitatively evaluate movement, it is first necessary to set a “goal” for the movement.
 
 Let us assume that the goal of an Aikido movement is making attacker unattackable. And it is thought that Aikido uses the following strategies as a means of achieving its goals.
@@ -61,7 +61,7 @@ Aikido, on the other hand, breaks the attacker’s posture by not interfering wi
 Here, it is thought that tori can break down the opponent at the point of contact with uke by applying the same force as the direction of the opponent’s force vector, so that uke cannot resist.
 Thus, by describing Aikido movements from a scientific perspective, we will be able to create an index for quantitatively evaluating movements.
 
-4. My passion for Aikido
+## My passion for Aikido
 I am currently studying physics at a university in Japan. At the same time, I practice Aikido daily at a dojo belonging to Aikikai.  
 And when I look at Aikido from a natural scientific point of view, I feel that there is still a lot of room for research.  
 Also, in my research life, I have a major theme to prove the rationality of Aikido techniques.
