@@ -57,7 +57,9 @@ In other words, the movements that Aikido aims for can be described as the most 
 In addition to that, Aikido has a strategy of not destroying the opponent’s body.
 
 In order to achieve the goal of “Making attacker unattackable”, martial arts such as Karate, Judo, and Kendo choose the strategy of destroying the attacker’s body with strikes.
-Aikido, on the other hand, breaks the attacker’s posture by not interfering with the attacker’s movements. For example, in Zagi(Seated techniques) Shomen Uchi Ikkyo, the moment the Uke raises his arm to slash the Tori’s head with his sword from the front, the Tori is broken in posture.
+Aikido, on the other hand, breaks the attacker’s posture by not interfering with the attacker’s movements. For example, in Zagi(Seated techniques) Shomen Uchi Ikkyo, the moment the Uke raises his arm to slash the Tori’s head with his sword from the front, the Uke is broken in posture.
+
+![](./Note_1.png)
 
 Here, it is thought that tori can break down the opponent at the point of contact with uke by applying the same force as the direction of the opponent’s force vector, so that uke cannot resist.
 Thus, by describing Aikido movements from a scientific perspective, we will be able to create an index for quantitatively evaluating movements.
