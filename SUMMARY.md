@@ -1,7 +1,7 @@
 # Summary
 
 ## Introduction
-* [About this website](README.md)
+* [Welcome](README.md)
 
 ## Explanation of techniques
 * [Basic movement](contents/Explanation_of_techniques/Basic_movement.md)
