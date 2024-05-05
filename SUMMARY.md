@@ -4,16 +4,24 @@
 * [Welcome](README.md)
 
 ## Explanation of techniques
-* [Basic movement](contents/Explanation_of_techniques/Basic_movement.md)
-* [Basic techniques](contents/Explanation_of_techniques/Basic_techniques.md)
-* [Applied techniques](contents/Explanation_of_techniques/Applied_techniques.md)
+
+## Basic movement
+* [seiza](contents/Explanation_of_techniques/Basic_movement/seiza.md)
+* [hanmi](contents/Explanation_of_techniques/Basic_movement/hanmi.md)
+* [swing](contents/Explanation_of_techniques/Basic_movement/swing.md)
+* [mae-ukemi](contents/Explanation_of_techniques/Basic_movement/mae-ukemi.md)
+* [ushiro-ukemi](contents/Explanation_of_techniques/Basic_movement/ushiro-ukemi.md)
+
+## Basic_techniques
+* [shiho-nage](contents/Explanation_of_techniques/Basic_techniques/shiho-nage.md)
+* [yokomen-uchi](contents/Explanation_of_techniques/Applied_techniques/yokomen-uchi.md)
 
 ## My daily practice
 
-### Journey to 1st kyu
+## Journey to 1st kyu
 * [2022 July](contents/My_daily_practice/Journey_to_1st_kyu/2022_July.md)
 
-### Journey to 1st dan
+## Journey to 1st dan
 * [2022 July](contents/My_daily_practice/Journey_to_1st_dan/2022_July.md)
 * [2022 August](contents/My_daily_practice/Journey_to_1st_dan/2022_August.md)
 * [2022 September](contents/My_daily_practice/Journey_to_1st_dan/2022_September.md)
