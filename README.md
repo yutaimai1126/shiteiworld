@@ -1,7 +1,3 @@
 # Shitei World
-
-## Introduction
-Hello.
-
-
-# shiteiworld
+## How to use Shitei World
+Use by learning Aikido.
